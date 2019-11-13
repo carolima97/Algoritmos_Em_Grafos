@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BackToTheFuture", "BackToTheFuture\BackToTheFuture.vcxproj", "{602AD5D1-70D6-429F-A281-0BC05144DBFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{602AD5D1-70D6-429F-A281-0BC05144DBFB}.Debug|x64.ActiveCfg = Debug|x64
+		{602AD5D1-70D6-429F-A281-0BC05144DBFB}.Debug|x64.Build.0 = Debug|x64
+		{602AD5D1-70D6-429F-A281-0BC05144DBFB}.Debug|x86.ActiveCfg = Debug|Win32
+		{602AD5D1-70D6-429F-A281-0BC05144DBFB}.Debug|x86.Build.0 = Debug|Win32
+		{602AD5D1-70D6-429F-A281-0BC05144DBFB}.Release|x64.ActiveCfg = Release|x64
+		{602AD5D1-70D6-429F-A281-0BC05144DBFB}.Release|x64.Build.0 = Release|x64
+		{602AD5D1-70D6-429F-A281-0BC05144DBFB}.Release|x86.ActiveCfg = Release|Win32
+		{602AD5D1-70D6-429F-A281-0BC05144DBFB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77CD59F9-8AEB-494A-97C5-D3F5D7127FBB}
+	EndGlobalSection
+EndGlobal

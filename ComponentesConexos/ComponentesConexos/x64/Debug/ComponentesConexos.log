@@ -1,0 +1,11 @@
+﻿  ComponentesConexos.cpp
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\ComponentesConexos\ComponentesConexos\ComponentesConexos.cpp(13,22): error C2131: a expressão não foi avaliada como uma constante
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\ComponentesConexos\ComponentesConexos\ComponentesConexos.cpp(13,22): message : falha causada por uma leitura de uma variável fora de seu tempo de vida
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\ComponentesConexos\ComponentesConexos\ComponentesConexos.cpp(13,22): message : consulte uso de "%*"
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\ComponentesConexos\ComponentesConexos\ComponentesConexos.cpp(13,32): error C2131: a expressão não foi avaliada como uma constante
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\ComponentesConexos\ComponentesConexos\ComponentesConexos.cpp(13,32): message : falha causada por uma leitura de uma variável fora de seu tempo de vida
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\ComponentesConexos\ComponentesConexos\ComponentesConexos.cpp(13,32): message : consulte uso de "%*"
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\ComponentesConexos\ComponentesConexos\ComponentesConexos.cpp(17,1): error C3863: o tipo de matriz 'char [vertices][vertices]' não é atribuível
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\ComponentesConexos\ComponentesConexos\ComponentesConexos.cpp(25,1): error C3863: o tipo de matriz 'char [vertices][vertices]' não é atribuível
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\ComponentesConexos\ComponentesConexos\ComponentesConexos.cpp(26,1): error C3863: o tipo de matriz 'char [vertices][vertices]' não é atribuível
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\ComponentesConexos\ComponentesConexos\ComponentesConexos.cpp(31,1): error C2059: erro de sintaxe: '}'

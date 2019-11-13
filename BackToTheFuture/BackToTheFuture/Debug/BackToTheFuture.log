@@ -1,0 +1,27 @@
+﻿  BackToTheFuture.cpp
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\BackToTheFuture\BackToTheFuture\BackToTheFuture.cpp(37,14): error C2131: a expressão não foi avaliada como uma constante
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\BackToTheFuture\BackToTheFuture\BackToTheFuture.cpp(37,14): message : falha causada por uma leitura de uma variável fora de seu tempo de vida
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\BackToTheFuture\BackToTheFuture\BackToTheFuture.cpp(37,14): message : consulte uso de "%*"
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\BackToTheFuture\BackToTheFuture\BackToTheFuture.cpp(44,20): error C3863: o tipo de matriz 'short [tam]' não é atribuível
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\BackToTheFuture\BackToTheFuture\BackToTheFuture.cpp(53,19): error C3863: o tipo de matriz 'short [tam]' não é atribuível
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\BackToTheFuture\BackToTheFuture\BackToTheFuture.cpp(76,12): error C2131: a expressão não foi avaliada como uma constante
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\BackToTheFuture\BackToTheFuture\BackToTheFuture.cpp(76,12): message : falha causada por uma leitura de uma variável fora de seu tempo de vida
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\BackToTheFuture\BackToTheFuture\BackToTheFuture.cpp(76,12): message : consulte uso de "%*"
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\BackToTheFuture\BackToTheFuture\BackToTheFuture.cpp(77,14): error C2131: a expressão não foi avaliada como uma constante
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\BackToTheFuture\BackToTheFuture\BackToTheFuture.cpp(77,14): message : falha causada por uma leitura de uma variável fora de seu tempo de vida
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\BackToTheFuture\BackToTheFuture\BackToTheFuture.cpp(77,14): message : consulte uso de "%*"
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\BackToTheFuture\BackToTheFuture\BackToTheFuture.cpp(107,13): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\BackToTheFuture\BackToTheFuture\BackToTheFuture.cpp(71,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : consulte a declaração de 'scanf'
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\BackToTheFuture\BackToTheFuture\BackToTheFuture.cpp(72,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : consulte a declaração de 'scanf'
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\BackToTheFuture\BackToTheFuture\BackToTheFuture.cpp(95,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : consulte a declaração de 'scanf'
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\BackToTheFuture\BackToTheFuture\BackToTheFuture.cpp(96,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : consulte a declaração de 'scanf'
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\BackToTheFuture\BackToTheFuture\BackToTheFuture.cpp(97,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : consulte a declaração de 'scanf'
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\BackToTheFuture\BackToTheFuture\BackToTheFuture.cpp(103,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : consulte a declaração de 'scanf'
+C:\Users\Lima\Documents\PUC\GRAFOS\Algoritmos_Em_Grafos\BackToTheFuture\BackToTheFuture\BackToTheFuture.cpp(104,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : consulte a declaração de 'scanf'

@@ -1,0 +1,28 @@
+﻿  ResgateEmQuedaLivre.cpp
+C:\Users\Lima\Documents\PUC\GRAFOS\TP\ResgateEmQuedaLivre\ResgateEmQuedaLivre\ResgateEmQuedaLivre.cpp(101,22): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\Lima\Documents\PUC\GRAFOS\TP\ResgateEmQuedaLivre\ResgateEmQuedaLivre\ResgateEmQuedaLivre.cpp(70,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : consulte a declaração de 'scanf'
+C:\Users\Lima\Documents\PUC\GRAFOS\TP\ResgateEmQuedaLivre\ResgateEmQuedaLivre\ResgateEmQuedaLivre.cpp(76,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : consulte a declaração de 'scanf'
+C:\Users\Lima\Documents\PUC\GRAFOS\TP\ResgateEmQuedaLivre\ResgateEmQuedaLivre\ResgateEmQuedaLivre.cpp(119,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : consulte a declaração de 'scanf'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(147,16): warning C4244: 'inicializando': conversão de 'const _Ty1' para '_Ty1', possível perda de dados
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(147,16): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(147,16): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(147,16): warning C4244:             _Ty1=double
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(147,16): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(147,16): warning C4244:         and
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(147,16): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(147,16): warning C4244:             _Ty1=int
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(147,16): warning C4244:         ]
+C:\Users\Lima\Documents\PUC\GRAFOS\TP\ResgateEmQuedaLivre\ResgateEmQuedaLivre\ResgateEmQuedaLivre.cpp(83): message : consulte a referência à criação de instância 'std::pair<int,int>::pair<double,double,0>(const std::pair<double,double> &) noexcept' do modelo que está sendo compilada
+C:\Users\Lima\Documents\PUC\GRAFOS\TP\ResgateEmQuedaLivre\ResgateEmQuedaLivre\ResgateEmQuedaLivre.cpp(83): message : consulte a referência à criação de instância 'std::pair<int,int>::pair<double,double,0>(const std::pair<double,double> &) noexcept' do modelo que está sendo compilada
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(147,1): warning C4244: 'inicializando': conversão de 'const _Ty2' para '_Ty2', possível perda de dados
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(147,1): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(147,1): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(147,1): warning C4244:             _Ty2=double
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(147,1): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(147,1): warning C4244:         and
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(147,1): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(147,1): warning C4244:             _Ty2=int
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(147,1): warning C4244:         ]
