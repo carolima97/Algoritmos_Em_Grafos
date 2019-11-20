@@ -24,8 +24,8 @@ struct grafos
 			cin >> qtd_arestas_inseridas;
 			cin >> qtd_cores;
 
-			int vet_cor[4];
-			BOOL matriz_adjacencia[4][4];
+			int vet_cor[qtd_casos];
+			BOOL matriz_adjacencia[qtd_casos][qtd_casos];
 
 			// inicializa vetor de cores
 			for (auto j = 0; j < qtd_vertices; j++) {
